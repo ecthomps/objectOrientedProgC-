@@ -1,0 +1,5 @@
+﻿  trainsPlanes.cpp
+c:\users\joelf\onedrive\class\cis 200\programs\assignment 4\assignment4\assignment4\trainsplanes.cpp(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\joelf\onedrive\class\cis 200\programs\assignment 4\assignment4\assignment4\trainsplanes.cpp(192): warning C4018: '<': signed/unsigned mismatch
+  Assignment4.vcxproj -> C:\Users\joelf\OneDrive\Class\CIS 200\Programs\Assignment 4\Assignment4\Debug\Assignment4.exe
+  Assignment4.vcxproj -> C:\Users\joelf\OneDrive\Class\CIS 200\Programs\Assignment 4\Assignment4\Debug\Assignment4.pdb (Partial PDB)
